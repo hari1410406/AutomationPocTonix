@@ -8,7 +8,6 @@ public class LoginPage extends BasePage {
     public LoginPage() throws InterruptedException {
         super();
     }
-    //good
     /**
      * Perform login into application
      * Entering password stored in testdata.properties - password field and clicking on login button
