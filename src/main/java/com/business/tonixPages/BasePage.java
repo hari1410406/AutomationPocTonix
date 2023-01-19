@@ -40,6 +40,7 @@ public class BasePage extends Utilities {
 	public String formattedDate =null;
 
 	public String txt=null;
+//global variables
 
 	public BasePage() throws InterruptedException {
 		//new CommandBase(Application);
