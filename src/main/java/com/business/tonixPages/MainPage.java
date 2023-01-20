@@ -7,8 +7,6 @@ public class MainPage extends BasePage {
     public MainPage() throws InterruptedException {
         super();
     }
-//This is added method
-//Today is new day
     /**
      * Click on Stash link -
      * Either on 'Stash' text or 'Total Stash balance' text or 'Put your stash in cash' text in main page
