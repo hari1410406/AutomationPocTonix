@@ -8,6 +8,7 @@ public class MainPage extends BasePage {
         super();
     }
 //This is added method
+//Todayyy
     /**
      * Click on Stash link -
      * Either on 'Stash' text or 'Total Stash balance' text or 'Put your stash in cash' text in main page
