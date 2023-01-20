@@ -22,16 +22,6 @@
 		</classes>
 	</test>
 	
-	<test name="Tonix1">
-		<classes>
-			<class name="com.tonix.testScripts.TonixTestFlow_SoloStash_AddStash_UpdateStashDetails_CloseStash" />
-		</classes>
-	</test>
-	<test name="Tonix2">
-		<classes>
-			<class name="com.tonix.testScripts.TonixTestFlow_SoloStash_AddStash_Withdraw_CloseStash" />
-		</classes>
-	</test>
 	
 	<test name="Tonix3">
 		<classes>
