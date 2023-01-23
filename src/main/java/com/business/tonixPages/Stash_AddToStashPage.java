@@ -7,6 +7,7 @@ public class Stash_AddToStashPage extends BasePage {
 	    public Stash_AddToStashPage() throws InterruptedException {
 	        super();
 	    }
+//This is for github
 
 	    /**
 	     * Verify Add to stash page is loaded successfully

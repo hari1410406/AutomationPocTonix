@@ -55,11 +55,9 @@ public class TonixTestFlow_Check extends BaseTestCase
 		setInitialSavingPage.clickOnSkipForNow();
 		reviewStashDetailsPage.verifyDetailsAndCreateStash();
 		soloStashCreatedPage.soloStashCreated();
-//
-		
-		
-        basePage.fetchAllStashNames();
-        stashHomePage.verifyAlertPromptIfFiveStashesPresent();
+
+                 basePage.fetchAllStashNames();
+                 stashHomePage.verifyAlertPromptIfFiveStashesPresent();
         
 	}
 	
