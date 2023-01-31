@@ -3,12 +3,11 @@ package com.tonix.testScripts;
 import org.testng.annotations.Test;
 
 import com.android.selectors.Stash_StashHomeSelectors;
-//hii
 public class TonixTestFlow_Check extends BaseTestCase
 {
 	public String tonikAccountBalance;
 	public String tonikNewAccountBalance;
-
+//hii
 	@Test
 	public void checkStashNames() throws Exception {
 		loginPage.performLogin();
